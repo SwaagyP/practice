@@ -1,4 +1,4 @@
 str = "Manas"
-age = "16"
+age = "17"
 print(str + " is " + age + " years old")
-myDad = "Manish"
+print("My moms name is Manisha")
